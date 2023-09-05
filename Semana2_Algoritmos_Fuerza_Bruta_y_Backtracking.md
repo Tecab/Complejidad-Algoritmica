@@ -41,7 +41,7 @@ Las (2) técnicas clásicas de resolución de problemas o técnicas de búsqueda
 ¿Qué es?
 Una estrategia general para listar todas las opciones en un problema de Fuerza Bruta es usar permutaciones o combinaciones.
 
-![Complejidades](/Complementos/Fuerza%20Bruta.jpeg)
+![Fuerza Bruta](/Complementos/Fuerza%20Bruta.jpeg)
 
 Son ejemplos de Fuerza Bruta:
 - La búsqueda de clasificación por selección (Selection Sort)
